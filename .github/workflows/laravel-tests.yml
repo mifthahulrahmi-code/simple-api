@@ -48,4 +48,3 @@ jobs:
       # 6. Run tests
       - name: Run PHPUnit tests
         run: php artisan test
-
